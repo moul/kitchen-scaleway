@@ -1,5 +1,7 @@
 # <a name="title"></a> Kitchen::Scaleway
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/kitchen-scaleway.svg)](https://www.guardrails.io)
+
 A Test Kitchen Driver for Scaleway.
 
 ## <a name="requirements"></a> Requirements
